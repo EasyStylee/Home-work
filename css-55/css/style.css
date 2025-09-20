@@ -48,7 +48,7 @@ body {
 /* =========================== */
 
 .hero {
-    background: url("css-55/img/hero-bg\ \(2\).jpg")  cover no-repeat / 10% 50% ;
+    background: url("../img/hero-bg\ \(2\).jpg")  cover no-repeat / 10% 50% ;
     padding: 120px 0;
 }
 
@@ -217,4 +217,5 @@ margin-right: 28px;
 
 .footer-item {
     margin-bottom: 10px;
+
 }
